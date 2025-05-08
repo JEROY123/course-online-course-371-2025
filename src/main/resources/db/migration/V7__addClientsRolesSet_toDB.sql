@@ -1,0 +1,12 @@
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('1', '1');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('1', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('1', '3');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('2', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('3', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('4', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('5', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('6', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('7', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('8', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('9', '2');
+INSERT INTO `clients_roles_set` (`clients_set_id`, `roles_set_id`) VALUES ('10', '2');

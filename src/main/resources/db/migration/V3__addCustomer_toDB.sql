@@ -1,0 +1,10 @@
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('1', 'admin@ukr.net', 'Сергій', 'Бриков', '+380631113333');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('2', 'teacher_js@ukr.net', 'Олексій', 'Петров', '+380631102222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('3', 'teacher_html@ukr.net', 'Василь', 'Карпенко', '+380631202222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('4', 'teacher_react@ukr.net', 'Олександр', 'Машовець', '+380631302222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('5', 'teacher_python@ukr.net', 'Володимир', 'Зозуля', '+380632102222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('6', 'teacher_java@ukr.net', 'Максим', 'Приходько', '+380632202222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('7', 'teacher_c_sharp@ukr.net', 'Олег', 'Тимошенко', '+380632302222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('8', 'teacher_cpp@ukr.net', 'Миколай', 'Коваль', '+380632402222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('9', 'teacher_new_leader@ukr.net', 'Світлана', 'Морозова', '+380633102222');
+INSERT INTO `customers` (`id`, `email`, `first_name`, `last_name`, `phone`) VALUES ('10', 'teacher_new_leader@ukr.net', 'Юрій', 'Парубій', '+380633202222');

@@ -1,0 +1,10 @@
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$iHHN4xs1iUgNojxlahHWlO02NOz2GFbeRQBMnnMLbFVttSgh7Slk6', 'admin');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$8zft/0grgkhd1o5ns4KOw.uINt.mvb4XATyaXQ.3parNJPl36FZlu', 'teacher_js');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$vaqTpmRpBeTmDO/VSm/4PutHPrqQqGYkg.7hKaePzeW2is/Fpyndi', 'teacher_html');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$umgdJGKjOSgEz6q7fF4U4eQx3QA8D9KpkrmHSzuBHsDQEYmKP6456', 'teacher_react');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$Stxz1Ghn51dEfbGOgNlgg.1DZi2om0I3cI9Q51HNj0hwey.Pj.DdW', 'teacher_python');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$pAcPtgKPPfLNaWE8mFXJH.B8AnoCnw0SzQnqHcF2Pb4roN4qbqDIm', 'teacher_java');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$bky5n22.sKBXhmoe.611Ue9bCjFBErVkQ/WxgbAJd0cwpM2f6/CFq', 'teacher_c_sharp');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$bB.PHUG33J/MZBy8XYCi6.cxSF.FURZZ/dBwlb9LjUBQ.FB50SnGu', 'teacher_cpp');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$YYMTdiUeouA056MgwoT6YOLt9o4S0nFfotO07XRI5cRcJQfPIzhom', 'teacher_new_leader');
+INSERT INTO `clients` (`password`, `username`) VALUES ('$2a$10$X/j6jgWPZVctXYvabc0Hr.1jPy4Co/xb.D2l7XMH7m6in1P0gaBwe', 'teacher_leader_skills');
